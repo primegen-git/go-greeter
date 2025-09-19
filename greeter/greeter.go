@@ -4,5 +4,5 @@ package greeter
 import "fmt"
 
 func Greet() {
-	fmt.Print("Welcoming you, In this awesome go world.")
+	fmt.Println("Welcoming you, In this awesome go world.")
 }
