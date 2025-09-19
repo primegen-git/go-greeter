@@ -3,6 +3,6 @@ package gretter
 
 import "fmt"
 
-func Gretter() {
+func Greet() {
 	fmt.Print("Welcoming you, In this awesome go world.")
 }
