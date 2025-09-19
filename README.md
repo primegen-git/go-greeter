@@ -1,6 +1,7 @@
 <center><h1>go Modules, Packages, Files</h1></center>
 
-> [!NOTE] This repo is just for understanding how does the modules, packages and files works in go.
+> [!NOTE]
+> This repo is just for understanding how does the modules, packages and files works in go.
 
 ## problem statement. 
  - create a module with two packages.
