@@ -1,6 +1,6 @@
 <center><h1>go Modules, Packages, Files</h1></center>
 
-[!NOTE] This repo is just for understanding how does the modules, packages and files works in go.
+> [!NOTE] This repo is just for understanding how does the modules, packages and files works in go.
 
 ## problem statement. 
  - create a module with two packages.
@@ -47,10 +47,6 @@ func main() {
   greeter.Greet() 
 }
 ```
-```
-```
-
-
 > If you want to use it in the local machine, in some other go project, 
 > this structure is going  to be same just you have to point **module-name** -> local path
 
