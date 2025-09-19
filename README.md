@@ -29,7 +29,6 @@ go mod init github.com/primegen-git/go-greeter
 > [!TIP]
 > github.com/primegen-git/go-greeter  -> this just tell go where to look for this module.
 > Think of this as a canonical name for your module.
- 
 
 > Now, If you want to import the code from the **welcome** package or **greeter** package
 
